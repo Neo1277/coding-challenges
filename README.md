@@ -1,3 +1,3 @@
 # Coding challenges #
 
-Some chhallenges from CodeSignal :)
+Some challenges from CodeSignal :)
